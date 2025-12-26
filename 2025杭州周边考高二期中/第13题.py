@@ -78,6 +78,7 @@ for key in dic:
 
 #输出
 i=head
-while a[i][2]!=-1:
+while p!=-1:
     print(a[i][0],a[i][1])
+
     i=a[i][2]
